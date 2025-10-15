@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(112,180,133);
+}
+
+.hero-image {
+    width: 100%;
+    height: auto;
+}
+
+.body {
+    margin: 15px 0px;
+}
+
+.page-head {
+    margin: 15px;
+}
+
+.diagram {
+    width: 100%;
+    height: auto;
+    min-width: 600px;
+}
+
+.centered-max-width {
+    width: 100%;
+    height: auto;
+    max-width: 800px;
+    margin: auto;
+    display: block;
+}
